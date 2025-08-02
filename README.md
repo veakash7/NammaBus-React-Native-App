@@ -100,4 +100,9 @@ The project is organized into a clean, component-based architecture:
 * `src/screens/`: The main screens of the app (e.g., `WelcomeScreen`, `MapScreen`).
 * `src/theme.js`: Defines the color palettes for all application themes.
 * `App.js`: The main entry point that handles navigation and theme providing.
+## SnapShots
+![photo_2025-08-02_11-20-38](https://github.com/user-attachments/assets/2f2c3f93-95d9-4182-8255-e99128416908)
+![photo_2025-08-02_11-20-46](https://github.com/user-attachments/assets/6265d816-62b4-4ab3-82d9-c8562340c7e6)
+![photo_2025-08-02_11-20-52](https://github.com/user-attachments/assets/7621f467-39f2-4422-9204-f6c9d385206d)
+
 
