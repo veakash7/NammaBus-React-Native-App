@@ -104,5 +104,4 @@ The project is organized into a clean, component-based architecture:
 ![photo_2025-08-02_11-20-38](https://github.com/user-attachments/assets/2f2c3f93-95d9-4182-8255-e99128416908)
 ![photo_2025-08-02_11-20-46](https://github.com/user-attachments/assets/6265d816-62b4-4ab3-82d9-c8562340c7e6)
 ![photo_2025-08-02_11-20-52](https://github.com/user-attachments/assets/7621f467-39f2-4422-9204-f6c9d385206d)
-
-
+<img width="1825" height="922" alt="image" src="https://github.com/user-attachments/assets/4ff5018b-d6b3-4508-8f20-6ce5b5cd9968" />
